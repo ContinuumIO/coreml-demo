@@ -6,3 +6,4 @@ dependencies:
   - torchvision
   - pytorch
   - coremltools
+  - nbgitpuller
