@@ -1,0 +1,8 @@
+name: notebook
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - torchvision
+  - pytorch
+  - coremltools
