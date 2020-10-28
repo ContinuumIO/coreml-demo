@@ -4,6 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - torchvision
-  - pytorch
+  - pytorch==1.6.0
   - coremltools
   - nbgitpuller
