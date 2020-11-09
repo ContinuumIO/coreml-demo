@@ -3,7 +3,7 @@ channels:
   - pytorch
 dependencies:
   - torchvision
-  - pytorch==1.6.0
+  - pytorch==1.6.0==py3.8_cpu_0
   - cpuonly
   - conda-forge::coremltools
   - nbgitpuller
