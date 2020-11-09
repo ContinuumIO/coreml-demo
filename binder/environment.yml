@@ -1,9 +1,9 @@
 name: notebook
 channels:
-  - defaults
   - pytorch
 dependencies:
   - torchvision
   - pytorch==1.6.0
+  - cpuonly
   - conda-forge::coremltools
   - nbgitpuller
