@@ -1,0 +1,12 @@
+name: notebook
+channels:
+  - pytorch
+dependencies:
+  - torchvision
+  - pytorch
+  - pillow
+  - conda-forge::coremltools
+  - nbgitpuller
+  - pip
+  - pip:
+    - tensorflow
