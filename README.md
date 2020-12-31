@@ -1,6 +1,6 @@
 # Demos for coremltools
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seibert/coreml-demo/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ContinuumIO/coreml-demo/HEAD)
 
 These notebooks show examples of converting trained models to CoreML using [coremltools](https://coremltools.readme.io/docs).
 
