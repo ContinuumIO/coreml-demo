@@ -7,6 +7,8 @@ dependencies:
   - pillow
   - conda-forge::coremltools=4.0=*_4  # force build 4
   - nbgitpuller
+  - conda-forge::xgboost
+  - matplotlib
   - pip
   - pip:
     - tensorflow
