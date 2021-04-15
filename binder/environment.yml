@@ -5,10 +5,11 @@ dependencies:
   - torchvision
   - pytorch
   - pillow
-  - conda-forge::coremltools=4.0=*_4  # force build 4
+  - conda-forge::coremltools==4.1
+  - python-graphviz
   - nbgitpuller
   - conda-forge::xgboost
   - matplotlib
   - pip
   - pip:
-    - tensorflow
+    - tensorflow==2.3.1
