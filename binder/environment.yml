@@ -1,5 +1,6 @@
 name: notebook
 channels:
+  - defaults
   - pytorch
 dependencies:
   - torchvision
